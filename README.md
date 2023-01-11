@@ -15,4 +15,9 @@ Here's the part of the data cleaning and analysis of <b>THE WORLD DATA VISUALIZA
 
 ### Problems 🗣️
 1. Datasets had come from many sources. It is difficult to detect a fraud, valid a proper value and correct labels.
-2. To use t-SNE for clustering, dataset must be completed. Hence, imputating is necessary but it might cause a lack of correctness.
+2. To use t-SNE for clustering, dataset must be completed. Hence, imputating is necessary but it might cause a lack of correctness.<br>
+
+### Result
+Here's the plots of clustering analysis.
+
+<img src="https://github.com/supawichO/Clustering_Our_World_with_TSNE/blob/master/img/cluster_poster.png">
