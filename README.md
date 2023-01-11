@@ -20,4 +20,4 @@ Here's the part of the data cleaning and analysis of <b>THE WORLD DATA VISUALIZA
 ### Result
 Here's the plots of clustering analysis.
 
-<img src="https://github.com/supawichO/Clustering_Our_World_with_TSNE/blob/master/img/cluster_poster.png">
+<img src="https://github.com/supawichO/Clustering_Our_World_with_TSNE/blob/main/img/cluster_poster.png" alt = "Poster of clustering visualization">
